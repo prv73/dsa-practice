@@ -9,6 +9,6 @@ Java
 
 ## Concepts covered so far -
 
-Arithmetic operations
-Comparison based operations
-Formula based operations covering formulas like areas of shapes
+- Arithmetic operations
+- Comparison based operations
+- Formula based operations covering formulas like areas of shapes
