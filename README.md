@@ -1,4 +1,4 @@
-## Java DSA Practice -
+## DSA Practice -
 
 Questions from codeforces and hackerrank.
 Full list of concepts will be updated as I solve more questions.
